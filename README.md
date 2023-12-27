@@ -1,7 +1,7 @@
 # ITSS_日本語1
 Here is a README.md file formatted appropriately for GitHub:
 
-# Time Management App
+# SMS Timeline App
 
 This is a SMS Timeline application built using ReactJS for the frontend and NodeJS for the backend.
 
